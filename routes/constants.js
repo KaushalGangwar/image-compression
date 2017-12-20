@@ -1,0 +1,3 @@
+exports.secretKey = {
+	secret: "Kaushal"
+};
